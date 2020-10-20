@@ -23,9 +23,12 @@ Simply put, the shell is a program that takes commands from the keyboard and giv
 |        `ls`         |                List all files in that folder                 |
 |       `ls -l`       |                Show detailed info in columns                 |
 |       `ls -a`       |   List all files in that folder including **hidden files**   |
+|       `ls-R`        |               Recursively list subdirectories                |
+|       `ls-aR`       |   Recursively list subdirectories along with hidden files    |
 |       `ls -t`       |           Sort by last modified date newest first            |
 |       `ls -S`       |                         Sort by size                         |
 |       `ls -F`       | Indicator at the end of each file ``/`` if it is a directory |
+|       `ls a*`       | It shows the list of all files that start with character 'a' |
 
 |      Manipulation commands       |                         Description                          |
 | :------------------------------: | :----------------------------------------------------------: |
